@@ -74,6 +74,6 @@ Este é um sistema básico de gerenciamento de produtos desenvolvido em Laravel.
 
 - `app/Models/Produto.php`: Modelo de Produto.
 - `app/Http/Controllers/ProdutoController.php`: Controlador que gerencia o cadastro e a listagem de produtos.
-- `resources/views/produtos/create.blade.php`: View para o formulário de cadastro de produtos.
-- `resources/views/produtos/index.blade.php`: View para a listagem de produtos.
+- `resources/views/create.blade.php`: View para o formulário de cadastro de produtos.
+- `resources/views/index.blade.php`: View para a listagem de produtos.
 - `resources/views/layouts/app.blade.php`: Layout principal com integração do Bootstrap.
