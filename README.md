@@ -28,7 +28,7 @@ Este é um sistema básico de gerenciamento de produtos desenvolvido em Laravel.
 1. Clone o repositório:
 
     ```sh
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/CaioFernandesRural/TesteOak
     cd nome-do-repositorio
     ```
 
@@ -68,7 +68,7 @@ Este é um sistema básico de gerenciamento de produtos desenvolvido em Laravel.
 
 2. Acesse a aplicação em `http://localhost:8000`.
 
-3. Navegue até `http://localhost:8000/produtos` para ver a listagem de produtos e cadastrar novos produtos.
+3. Navegue até `http://localhost:8000/` para ver a listagem de produtos e cadastrar novos produtos.
 
 ## Estrutura do Projeto
 
